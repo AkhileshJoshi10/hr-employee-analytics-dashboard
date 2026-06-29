@@ -231,7 +231,7 @@ hr-employee-analytics-dashboard/
 
 ## Dashboard Preview
 
-![HR Employee Analytics Dashboard](screenshots/hr_dashboard_main.png)
+![HR Employee Analytics Dashboard](./Screenshots/hr_dashboard_main.png)
 
 ---
 
